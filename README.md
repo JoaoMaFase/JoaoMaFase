@@ -7,7 +7,7 @@
   <img height=180em width=42% align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoMaFase&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/JoaoMaFase/convoychat">
-  <img height=180em width=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoMaFase&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=180em width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoMaFase&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 <div style="display: inline_block"><br>
