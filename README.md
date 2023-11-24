@@ -1,7 +1,7 @@
 ### Hi! I'm João Paulo 
 
-- 🔭 I’m currently working on React and Full-stack applications
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on Full-stack applications
+- 🌱 I’m currently learning Java
 
 <a href="https://github.com/JoaoMaFase/github-readme-stats">
   <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoMaFase&show_icons=true&theme=tokyonight" />
